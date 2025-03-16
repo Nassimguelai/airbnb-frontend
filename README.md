@@ -31,7 +31,3 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ng new airbnb-clone-front --style scss --standalone
 npm install primeng primeflex
 ng add @fortawesome/angular-fontawesome
-
-## Tuto
-https://www.youtube.com/watch?v=XriUV06Hkow
-timer = 16: 33
